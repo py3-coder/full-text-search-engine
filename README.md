@@ -15,8 +15,10 @@ This project is a Full-Text Search Engine implemented in Go using the inverted i
 To install the Full-Text Search Engine, you need to have Go installed on your system. Once you have Go installed, you can clone the repository and build the project using the following commands:
 
 git clone <repository_url>
+
 cd Full-Text-Search-Engine
-go build
+
+go run main.go
 
 ## Usage
 1. **Indexing Documents:** Before performing searches, you need to index the documents.
