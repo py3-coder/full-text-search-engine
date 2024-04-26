@@ -31,5 +31,8 @@ go run main.go
 4. **Inverted Index** - Created a inverted index map.
 5. **Search**  - Inverted Index will be Search in Index Token with Intersection.
 
+## Data Dump :-(used of this usecase)
+[Data](https://dumps.wikimedia.org/enwiki/latest/enwiki-latest-abstract1.xml.gz)
+
    
 
